@@ -1,0 +1,67 @@
+body {
+	padding-top: 20px !important;
+	padding-bottom: 40px;
+}
+
+h1 {
+	margin: 40px 0 20px 0;
+}
+
+p strong {
+	font-weight: normal;
+	color: inherit;
+	background-color: #ffffdd;
+}
+
+@media print {
+	.noprint {
+		display:none;
+	}
+}
+
+.container-narrow {
+	max-width: 700px;
+}
+
+.right {
+	text-align: right;
+}
+
+.muted a {
+	color: #999;
+}
+
+.tags {
+	margin: 0 0 10px 0;
+}
+
+.tags a {
+	color: #999;
+	padding: 2px 4px;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+div.tags {
+	margin: 25px 0;
+}
+
+div.tags a {
+	background-color: #f7f7f9;
+	border: 1px solid #e1e1e8;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+span.tags a:hover {
+	text-decoration: underline;
+}
+
+ul.archive li {
+	padding-bottom: 15px;
+}
+
+.nav-pills li.title {
+	margin-left: -12px;
+}
