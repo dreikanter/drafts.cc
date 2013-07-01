@@ -1,13 +1,13 @@
 /* TEAM */
 
-Creator: Hal 9000
-Site: http://thehal9000.com/
-Twitter: @hal
-Location: Discovery One spacecraft
+Creator: Alex Musayev
+Site: http://alex.musayev.com
+Twitter: @dreikanter
+Location: Undefined
 
 /* SITE */
 
 Last update:
-Language: English
+Language: Russian, English
 Doctype: HTML5
 IDE: Sublime Text
