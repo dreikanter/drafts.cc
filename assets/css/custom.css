@@ -38,7 +38,6 @@ p strong {
 
 .tags a {
 	color: #999;
-	padding: 2px 4px;
 	white-space: nowrap;
 	text-decoration: none;
 }
@@ -54,6 +53,7 @@ div.tags {
 }
 
 div.tags a {
+	padding: 2px 4px;
 	background-color: #f7f7f9;
 	border: 1px solid #e1e1e8;
 	-webkit-border-radius: 3px;
