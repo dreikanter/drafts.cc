@@ -69,6 +69,8 @@ ul.archive li {
 	padding-bottom: 15px;
 }
 
-.nav-pills li.title {
-	margin-left: -12px;
+.site_title {
+	display: block;
+	float: left;
+	margin: 7px 0;
 }
