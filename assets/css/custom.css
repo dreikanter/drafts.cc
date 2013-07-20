@@ -69,8 +69,23 @@ ul.archive li {
 	padding-bottom: 15px;
 }
 
-.site_title {
+.title {
 	display: block;
 	float: left;
 	margin: 7px 0;
+}
+
+.site_title, .site_title a {
+	color: #999;
+}
+
+.site_subtitle, .site_subtitle a {
+	color: #ccc;
+}
+
+.footer {
+	font-size: 13px;
+	line-height: 17px;
+	text-align:  center;
+	color: #ccc;
 }
