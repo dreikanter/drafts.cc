@@ -2,8 +2,6 @@ title: Killall for Windows
 created: 2013/07/20 19:04:45
 tags: windows, tips, command line
 
-# Killall для Windows
-
 Sublime Text — очень хороший редактор для кода, но в нём не хватает одной вещи: при запуске программы по <kbd>F7</kbd>, вышедший из под контроля процесс невозможно остановить средствами редактора. Для того чтобы остановить, например, такую программу, придётся открывать Task Manager и искать там процесс `python.exe`, полностью окупировавший одно процессорное ядро:
 
 <pre class="languague-pyhton prettyprint linenums">

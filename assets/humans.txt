@@ -1,13 +1,13 @@
 /* TEAM */
 
-Creator: Alex Musayev
-Site: http://alex.musayev.com
-Twitter: @dreikanter
-Location: Undefined
+Creator: {{ author }}
+Site: {{ author_url }}
+Twitter: {{ author_twitter }}
+Location: {{ author_location }}
 
 /* SITE */
 
-Last update:
-Language: Russian, English
-Doctype: HTML5
-IDE: Sublime Text
+Last update: {{ last_updated|datetime }}
+Language: {{ language }}
+Doctype: {{ doctype }}
+IDE: {{ ide }}

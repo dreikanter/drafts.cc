@@ -1,95 +1,57 @@
 body {
-	padding-top: 20px !important;
-	padding-bottom: 40px;
+  min-height: 800px;
 }
 
-h1 {
-	margin: 37px 0 20px 0;
-	line-height: 37px;
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
 }
 
-p strong {
-	font-weight: normal;
-	color: inherit;
-	background-color: #ffffdd;
+.navbar-static-top {
+  margin-bottom: 19px;
 }
 
-@media print {
-	.noprint {
-		display:none;
-	}
+.navbar-form {
+  margin-top: 10px;
 }
 
-.container-narrow {
-	max-width: 700px;
+.text-muted a {
+  color: #6FADE4;
 }
 
-.right {
-	text-align: right;
+.header h1 {
+  margin-bottom: 5px;
 }
 
-.muted a {
-	color: #999;
+.center {
+  text-align: center;
 }
 
-.tags {
-	margin: 0 0 10px 0;
+.header {
+  margin-bottom: 20px;
 }
 
-.tags a {
-	color: #999;
-	white-space: nowrap;
-	text-decoration: none;
+.footer {
+  margin-top: 60px;
 }
 
-div.flipper {
-	text-align: center;
-	font-size: 13px;
-	line-height: 17px;
-	margin: 37px 0 15px 0;
+.list {
+  margin-bottom: 0;
 }
 
-div.tags {
-	margin: 25px 0;
+.list li {
+  margin-bottom: 10px;
 }
 
-div.tags a {
-	padding: 2px 4px;
-	background-color: #f7f7f9;
-	border: 1px solid #e1e1e8;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
+/* Prettyprint customization */
+
+.linenums li {
+  list-style-type: decimal;
+  color: #ccc;
 }
 
-span.tags a:hover {
-	text-decoration: underline;
-}
-
-ul.archive li {
-	padding-bottom: 15px;
-}
-
-.title {
-	display: block;
-	float: left;
-	margin: 7px 0;
-}
-
-.site_title, .site_title a {
-	color: #999;
-}
-
-.site_subtitle, .site_subtitle a {
-	color: #ccc;
-}
-
-.footer, .footer a {
-	font-size: 13px;
-	line-height: 17px;
-	text-align:  center;
-	color: #ccc;
-}
-.footer hr {
-	margin: 15px 0;
+pre.prettyprint {
+  border-color: #eee;
+  background-color: #fffeee;
 }

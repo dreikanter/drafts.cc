@@ -1,9 +1,0 @@
-{% import '_macros.html' as macros -%}
-{% include '_header.html' %}
-{{ content }}
-<!-- {{ macros.tags_list(tags) }} -->
-<div class="muted flipper">
-{%- if prev_url %}&larr;&nbsp;<a href="{{ prev_url }}" title="{{ prev_title }}">Ctrl+Left</a>{%- if next_url %} / {% endif %}{%- endif -%}
-{%- if next_url %}<a href="{{ next_url }}" title="{{ next_title }}">Ctrl+Right</a>&nbsp;&rarr;{% endif -%}
-</div>
-{% include '_footer.html' -%}

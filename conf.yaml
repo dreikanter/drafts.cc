@@ -1,0 +1,57 @@
+# public-static configuration file
+
+# Site title
+title: drafts.cc
+
+# Site sublitle
+subtitle: is a different place
+
+# Author name
+author: Alex Musayev
+
+# Author home page
+author_url: http://alex.musayev.com
+
+# Website source URL
+source_url: https://github.com/dreikanter/drafts.cc
+
+# Root website URL
+root_url: http://drafts.cc/
+
+# Post destination path pattern
+post_location: '{year}/{month}/{day}/{name}.html'
+
+# Port number for the local web server
+port: 8001
+
+# Shell command for web content deployment
+deploy_cmd: s3 put drafts.cc {build_path}\* /sub:withdelete /yes /sync /acl:public-read /nogui
+
+# A list of default tags to be added to a new post
+default_tags:
+- misc
+
+# Enable Google search form
+enable_search_form: true
+
+# Navigation menu items
+menu:
+- href: /about.html
+  title: About
+- href: /archive/
+  title: Archive
+
+# Enable JavaScript minification
+min_js: false
+
+# Enable CSS minification
+min_css: false
+
+# Shell command for LESS compillation
+less_cmd: lessc --yui-compress {source} > {dest}
+
+# Shell command for JavaScript minification
+min_js_cmd: yuicompressor --type js --nomunge -o {dest} {source}
+
+# Enable verbose logging
+verbose: true
