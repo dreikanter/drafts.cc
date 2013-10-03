@@ -55,3 +55,9 @@ min_js_cmd: yuicompressor --type js --nomunge -o {dest} {source}
 
 # Enable verbose logging
 verbose: true
+
+google_analytics_tracking_id: UA-32143798-2
+
+addthis_id: ra-4ff62b047ef6db99
+
+disqus_short_name: draftscc
