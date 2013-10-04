@@ -40,6 +40,8 @@ menu:
   title: About
 - href: /archive/
   title: Archive
+- href: http://alex.musayev.com
+  title: Curriculum vitae
 
 # Enable JavaScript minification
 min_js: false
