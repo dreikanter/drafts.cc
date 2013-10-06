@@ -4,7 +4,7 @@ tags: python, snippets
 
 Себе на память.
 
-<pre class="language-python prettyprint linenums">
+``` python
 import time
  
 start_time = time.time()
@@ -12,4 +12,4 @@ time.sleep(1)
 elapsed_time = time.time() - start_time
  
 print(elapsed_time)
-</pre>
+```

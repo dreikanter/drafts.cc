@@ -60,6 +60,6 @@ verbose: true
 
 google_analytics_tracking_id: UA-32143798-2
 
-addthis_id: ra-4ff62b047ef6db99
+# addthis_id: ra-4ff62b047ef6db99
 
 disqus_short_name: draftscc
