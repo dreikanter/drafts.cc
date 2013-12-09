@@ -25,7 +25,8 @@ post_location: '{year}/{month}/{day}/{name}.html'
 port: 8001
 
 # Shell command for web content deployment
-deploy_cmd: s3 put drafts.cc {build_path}\* /sub:withdelete /yes /sync /acl:public-read /nogui
+deploy_cmd: aws s3 sync {build_path} s3://drafts.cc --acl public-read --delete --region=eu-west-1
+# s3 put drafts.cc {build_path}\* /sub:withdelete /yes /sync /acl:public-read /nogui
 
 # A list of default tags to be added to a new post
 default_tags:
