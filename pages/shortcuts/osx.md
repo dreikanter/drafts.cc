@@ -1,7 +1,7 @@
 title: Essential OS X keyboard shortcuts
 created: 2013/12/13
 
-# Essential OS X keyboard shortcuts 1
+# Essential OS X keyboard shortcuts
 
 A humble disclaimer: this list is not intended to include all OS X keyboard shortcuts, or be a cheat sheet for wide audience. I sought to keep it as short as possible to reduce the noise, so I've included only actually useful hotkeys, that are new for me as a Windows user switched to Mac.
 
@@ -48,6 +48,20 @@ Actual for OS X 10.9.
 - Hold `Shift` while changing system volume to avoid confirmation beeps.
 - `Command-Tilde` — Switch between windows of the same application.
 
+## ForkLift
+
+File sorting (repeat keystroke to toggle ascending/descending order):
+
+- `Command-Ctrl-1` — Sort files by name.
+- `Command-Ctrl-2` — Date last opened.
+- `Command-Ctrl-3` — Date added.
+- `Command-Ctrl-4` — Date modified.
+- `Command-Ctrl-5` — Date created.
+- `Command-Ctrl-6` — Size.
+- `Command-Ctrl-7` — Kind
+- `Command-Ctrl-8` — Label.
+- `Command-Ctrl-9` — Owner.
+- `Command-Ctrl-0` — Group.
 
 ## See also
 
