@@ -1,10 +1,15 @@
 title: Bookmarks
 
-## News
+## Tech
 
+- [Ars Technica](http://arstechnica.com)
 - [GigaOm](http://gigaom.com)
 - [RWW](http://readwrite.com)
 - [Hacker News](https://news.ycombinator.com)
+- [The Verge](http://theverge.com)
+- [iPhones.ru](http://iphones.ru)
+- [A List Apart](http://alistapart.com)
+- [Hight Scalability](http://highscalability.com)
 
 ## Mac
 
@@ -23,11 +28,38 @@ title: Bookmarks
 
 ## Personal
 
-- [plushev.com](http://plushev.com)
+- [Coding Horror](http://codinghorror.com/blog/)
+- [Bobuk](http://addmeto.cc)
+- [Александр Плющев](http://plushev.com)
+- [Юрий Карабатов](http://yurikarabatov.com)
+- [Urbansheep](http://untitled.urbansheep.com)
+- [След лемминга](http://aqva.tumblr.com)
+- [Александр Назаровский](http://athanore.ru)
 
-## Tech
+## Games and Gamedev
 
-- [Ars Technica](http://arstechnica.com)
+- [galyonkin.com](http://galyonkin.com)
 
+## Products and Companies
 
+- [Instapaper Blog](http://blog.instapaper.com)
+- [GitHub](https://github.com/blog)
+
+## UI/UX
+
+- http://lovelyui.com
+- http://uxrave.com
+
+## Music
+
+- [ISO50](http://blog.iso50.com)
+- [Read & Listen](http://readandlisten.net)
+- [MixCloud](http://mixcloud.com)
+- [Ник Завриев](http://www.zvuki.ru/A/P/53420/areview/)
+
+## Uncategorized
+
+- [Fuck you very much](http://fuckyouverymuch.dk)
+- [The Oatmeal](http://theoatmeal.com)
 - [lifehacker.ru](http://lifehacker.ru)
+- [Quantified Self](http://quantifiedself.com)
