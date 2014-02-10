@@ -1,19 +1,14 @@
 title: Watched movies
 
+# Watched movies
+
 ## 2014
 
-- Visual Acoustics
-- Design the new Business, [vimeo](http://vimeo.com/31678404)
-- Rem Koolhaas: A Kind of Architect
-- Eames: The Architect and the Painter
-- Antonio Gaudi
-- Herb & Dorothy
-- Chuck Close
-
-- How Much Does Your Building Weigh, Mr. Foster? (01.25)
-
-Watched:
-
+- The Hobbit: The Desolation of Smaug, 2013 (02/02/2014)
+- We're the Millers, 2013 (28/01/2014)
+- The Wolf of Wall Street, 2013 (28/01/2014)
+- Wreck-It Ralph, 2012 (27/01/2014)
+- How Much Does Your Building Weigh, Mr. Foster? 2010 (25/01/2014)
 - Gravity, 2013 (10/01/2014) — liked
   На огнетушителе!
 - The Princess Bride, 1987 (09/01/2014) — liked
@@ -21,6 +16,9 @@ Watched:
 - World War Z, 2013 (02/01/2014) — liked
 - The Great Gatsby, 2013 (02/01/2014) — liked
 - Red 2, 2013 (02/01/2014) — liked
+
+## 2013
+
 - The Kings of Summer, 2013 (24/12/2013) — liked
 - The Place Beyond the Pines, 2012 (24/12/2013) — liked
 - Don Jon, 2013 (24/12/2013) — liked
@@ -62,6 +60,9 @@ Watched:
 - Ted, 2012 (03/01/2013) — liked
 - Dredd, 2012 (03/01/2013) — liked
   Ни разу не снятый шлем, много мяса и годный перевод Lisitz.
+
+## 2012
+
 - The Hobbit: An Unexpected Journey, 2012 (25/12/2012) — liked
   #movies2012
 - Unknown, 2011 (04/12/2012) — liked
@@ -118,6 +119,9 @@ Watched:
   #ru #ussr #70s
 - Shirli-Myrli, 1995 (03/01/2012) — liked
   #post_ussr #ru #90s
+
+## 2011
+
 - Azureus Rising, 2010 (28/12/2011) — liked
 - Vanilla Sky, 2001 (26/12/2011) — liked
 - Sleeping Beauty, 2011 (26/12/2011) — liked
@@ -198,6 +202,9 @@ Watched:
   Изнутри Гарвард похож на Хогвартс.
 - Scott Pilgrim vs. the World, 2010 (05/01/2011) — liked
   #uberlike!!1
+
+## 2010
+
 - Harry Potter and the Deathly Hallows: Part 1, 2010 (22/11/2010) — liked
   +1 к тому, что кино не для детей.
 - 5 Centimeters Per Second, 2007 (21/11/2010) — liked
@@ -258,6 +265,9 @@ Watched:
 - Sherlock Holmes, 2009 (06/01/2010) — liked
 - Objectified, 2009 (06/01/2010) — liked
   #industrialdesign #inspiration #helvetica
+
+## 2009
+
 - A Christmas Carol, 2009 (14/12/2009) — liked
 - New York, I Love You, 2008 (15/11/2009) — liked
 - First Squad: The Moment of Truth, 2009 (20/10/2009) — liked
@@ -334,11 +344,20 @@ Watched:
 - Stilyagi, 2008 (13/01/2009) — liked
 - Superman/Doomsday, 2007 (08/01/2009) — liked
 - The Curious Case of Benjamin Button, 2008 (07/01/2009) — liked
+
+## 2008
+
 - The Dark Knight, 2008 (24/11/2008) — liked
 
+# Want to watch
 
-Want:
-
+- Visual Acoustics (14/01/2014)
+- Design the new Business, [vimeo](http://vimeo.com/31678404) (14/01/2014)
+- Rem Koolhaas: A Kind of Architect (14/01/2014)
+- Eames: The Architect and the Painter (14/01/2014)
+- Antonio Gaudi (14/01/2014)
+- Herb & Dorothy (14/01/2014)
+- Chuck Close (14/01/2014)
 - August: Osage County, 2013 (14/01/2014)
 - Just Like Being There, 2012 (06/01/2014)
 - Only Lovers Left Alive, 2013 (06/01/2014)

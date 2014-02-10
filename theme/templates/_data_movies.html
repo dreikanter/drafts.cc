@@ -1,0 +1,6 @@
+<ul>
+{% for movie in data %}
+<li>{{ movie.title }}<br>
+<span class="mute">Released: {{ movie.release }} Watched: {{ movie.timestamp }}</span></li>
+{% endfor %}
+</ul>
