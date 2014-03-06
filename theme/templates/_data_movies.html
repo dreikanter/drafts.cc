@@ -1,6 +1,18 @@
 <ul>
-{% for movie in data %}
-<li>{{ movie.title }}<br>
-<span class="mute">Released: {{ movie.release }} Watched: {{ movie.timestamp }}</span></li>
+{% for movie in data -%}
+<li>
+	<p>
+	  <b>{{ movie.title }}</b>
+	  {%- if movie.rating == 'awesome' %} <span class="glyphicon glyphicon-star"></span>{% endif -%}
+	  {%- if movie.release or movie.timestamp -%}
+		  <span class="text-muted">
+		    ({%- if movie.release %}{{ movie.release }}{% endif -%}
+		    {%- if movie.release and movie.timestamp %}, {% endif -%}
+		    {%- if movie.timestamp %}{{ movie.timestamp }}{% endif -%})
+			</span>
+		{%- endif -%}
+		{%- if movie.comment %}&nbsp;—&nbsp;{{ movie.comment }}{% endif -%}<br>
+	</p>
+</li>
 {% endfor %}
 </ul>
