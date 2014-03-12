@@ -1,8 +1,33 @@
+- title: "Her"
+  release: 2013
+  rating: ok
+  timestamp: 02/01/2014
+
 - title: "About Time"
   release: 2013
   timestamp: 05/03/2014
   rating: awesome
-  comment: "“We’re all traveling through time together, every day of our lives; all we can do is do our best to relish this remarkable ride”"
+  comment: "„We’re all traveling through time together, every day of our lives; all we can do is do our best to relish this remarkable ride.“"
+
+- title: "Hot Shots! Part Deux"
+  release: 1993
+  rating: like
+  timestamp: 01/03/2014
+
+- title: "Hot Shots!"
+  release: 1991
+  rating: like
+  timestamp: 27/02/2014
+
+- title: "The Lone Ranger"
+  release: 2013
+  rating: like
+  timestamp: 27/02/2014
+
+- title: "How Much Does Your Building Weigh, Mr. Foster?"
+  release: 2010
+  timestamp: 25/01/2014
+  comment: "Хорошо снятое неторопливое повествование про жизнь и наиболее известные проекты Нормана Фостера."
 
 - title: "The Hobbit: The Desolation of Smaug"
   release: 2013
@@ -13,16 +38,8 @@
 - title: "We're the Millers"
   release: 2013
   timestamp: 28/01/2014
-  rating: liked
-  comment:
-
-- title: "The Hobbit: The Desolation of Smaug"
-  release: 2013
-  timestamp: 02/02/2014
-
-- title: "We're the Millers"
-  release: 2013
-  timestamp: 28/01/2014
+  rating: like
+  comment: "Существенно лучше, чем ожидалось."
 
 - title: "The Wolf of Wall Street"
   release: 2013
@@ -32,674 +49,681 @@
   release: 2012
   timestamp: 27/01/2014
   rating: awesome
-
-- title: "How Much Does Your Building Weigh, Mr. Foster?"
-  release: 2010
-  timestamp: 25/01/2014
+  comment: "Один из лучших фильмов 2012 года, чуть ли не целиком состоящий из тёплых ламповых культурных кодов, связанных с аркадами 80-х годов.<br>В локализованной версии бессовестно запороли диалоги, сузив аудиторию до детской. Взять хотя бы то, что после перевода Ральф называет медаль «медалькой», что искажает примерно вообще всё."
 
 - title: "Gravity"
   release: 2013
   timestamp: 10/01/2014
-  rating: liked
-  comment: "На огнетушителе!"
+  rating: like
+  comment: "Самое реалистичное, а заодно и жизнеутверждающее кино про космос. Баллок и Клуни молодцы. (На огнетушителе, FTW!)"
 
 - title: "The Princess Bride"
   release: 1987
   timestamp: 09/01/2014
-  rating: liked
+  rating: like
+  comment: "На полку к Labyrinth и The NeverEnding Story."
 
 - title: "The Shining"
   release: 1980
   timestamp: 09/01/2014
-  rating: liked
+  rating: like
+  comment: "Набрался смелости посмотреть «Сияние» в 2014 году."
 
 - title: "World War Z"
   release: 2013
   timestamp: 02/01/2014
-  rating: liked
+  rating: like
+  comment: "Довольно качественное пополнение коллекции фильмов про зомби. Теги: зомби-катастрофы, быстрые зомби. См. так же South Park S17E03."
 
 - title: "The Great Gatsby"
   release: 2013
   timestamp: 02/01/2014
-  rating: liked
+  rating: like
+  comment: "Фильм, безусловно, достойный, но я, вероятно, не отношусь к целевой аудитории. Стратегическая ошибка Гатсби слишком очевидна, и смотреть, как из-за неё предсказуемо развивается драматическая история одновременно грустно и скучно. Больше всего понравились эпизоды из начала вильма, в котором происходят первые диалоги Ника и Джея, до того как проявляется помятая картина мира последнего."
 
-- title: "Red 2"
+- title: "RED 2"
   release: 2013
   timestamp: 02/01/2014
-  rating: liked
+  rating: like
 
 - title: "The Kings of Summer"
   release: 2013
   timestamp: 24/12/2013
-  rating: liked
+  rating: like
+  comment: "Хороший фильм про юность с разными, в том числе дуратскими, её свойствами."
 
 - title: "The Place Beyond the Pines"
   release: 2012
   timestamp: 24/12/2013
-  rating: liked
+  rating: like
+  comment: ""
 
 - title: "Don Jon"
   release: 2013
   timestamp: 24/12/2013
-  rating: liked
+  rating: like
+  comment: "„My body, my pad, my ride, my family, my church, my boys, my girls, my porn.“"
 
 - title: "Waitress"
   release: 2007
   timestamp: 24/12/2013
-  rating: liked
+  rating: like
   comment: "Но финал смазан."
 
 - title: "Killing Them Softly"
   release: 2012
   timestamp: 24/12/2013
-  rating: disliked
-  comment: "Meh."
+  rating: dislike
+  comment: "В целом фильм качественный. Игра, диалоги, всё на месте. Но сама история вызывает полный дизлайк."
 
 - title: "Indie Game: The Movie"
   release: 2012
   timestamp: 20/12/2013
-  rating: liked
-  comment: "Фильм про разработчиков Braid, Fez, Meat Boy, и про то, как всё было."
+  rating: like
+  comment: "Кино про разработчиков Braid, Fez, Meat Boy, и про то, как всё было."
 
 - title: "Tinker Tailor Soldier Spy"
   release: 2011
   timestamp: 09/12/2013
-  rating: liked
+  rating: like
 
 - title: "The Incredible Hulk"
   release: 2008
   timestamp: 06/12/2013
-  rating: liked
+  rating: like
   comment: "1978, 1990, 1996, 2003, 2008. Халка любят переделывать. Отличный."
 
 - title: "The Wolverine"
   release: 2013
   timestamp: 05/12/2013
-  rating: liked
+  rating: like
 
 - title: "Pitch Perfect"
   release: 2012
   timestamp: 08/10/2013
-  rating: liked
+  rating: awesome
+  comment: "Есть ещё отличный клип Анны Кендрик — <a href='http://www.youtube.com/watch?v=cmSbXsFE3l8'>The Cup Song</a>."
 
 - title: "Elysium"
   release: 2013
   timestamp: 16/09/2013
-  rating: liked
+  rating: like
+  comment: "Красивый sci-fi. Отличная озвучка дронов. Сюжет вызывает ассоциации с Moon."
 
-- title: "Sukai kurora"
+- title: "The Sky Crawlers (Sukai Kurora)"
   release: 2008
   timestamp: 05/09/2013
-  rating: disliked
+  rating: dislike
   comment: "Два крутых воздушных боя и, собственно, всё."
 
 - title: "A Serious Man"
   release: 2009
   timestamp: 05/09/2013
-  rating: liked
+  rating: like
 
-- title: "Koto no ha no niwa"
+- title: "The Garden of Words (Koto no ha no niwa)"
   release: 2013
   timestamp: 05/09/2013
-  rating: liked
+  rating: like
   comment: "18+"
 
 - title: "Monsters University"
   release: 2013
   timestamp: 21/07/2013
-  rating: liked
+  rating: like
 
 - title: "X-Men: The Last Stand"
   release: 2006
   timestamp: 21/07/2013
-  rating: liked
+  rating: like
 
-- title: "X2"
+- title: "X2 (X-Men United)"
   release: 2003
   timestamp: 21/07/2013
-  rating: liked
+  rating: like
 
 - title: "X-Men"
   release: 2000
   timestamp: 21/07/2013
-  rating: liked
+  rating: like
 
 - title: "Pacific Rim"
   release: 2013
   timestamp: 21/07/2013
-  rating: liked
+  rating: like
 
 - title: "Cloud Atlas"
   release: 2012
   timestamp: 21/07/2013
-  rating: liked
+  rating: like
 
 - title: "The Truman Show"
   release: 1998
   timestamp: 13/05/2013
-  rating: liked
+  rating: like
 
 - title: "The Last Stand"
   release: 2013
   timestamp: 13/05/2013
-  rating: liked
+  rating: like
 
 - title: "Serenity"
   release: 2005
   timestamp: 13/05/2013
-  rating: liked
+  rating: like
 
 - title: "Oblivion"
   release: 2013
   timestamp: 22/04/2013
-  rating: liked
+  rating: like
 
 - title: "Piled Higher and Deeper"
   release: 2011
   timestamp: 17/04/2013
-  rating: liked
+  rating: like
   comment: "How's the research?"
 
 - title: "Oz the Great and Powerful"
   release: 2013
   timestamp: 17/03/2013
-  rating: liked
+  rating: like
   comment: "Сценарий ой."
 
 - title: "The Amazing Spider-Man"
   release: 2012
   timestamp: 27/01/2013
-  rating: liked
+  rating: like
 
 - title: "Peaceful Warrior"
   release: 2006
   timestamp: 27/01/2013
-  rating: liked
+  rating: like
 
 - title: "Judge Dredd"
   release: 1995
   timestamp: 03/01/2013
-  rating: liked
+  rating: like
 
 - title: "Ted"
   release: 2012
   timestamp: 03/01/2013
-  rating: liked
+  rating: like
 
 - title: "Dredd"
   release: 2012
   timestamp: 03/01/2013
-  rating: liked
+  rating: like
   comment: "Ни разу не снятый шлем, много мяса и годный перевод Lisitz."
 
 - title: "The Hobbit: An Unexpected Journey"
   release: 2012
   timestamp: 25/12/2012
-  rating: liked
+  rating: like
 
 - title: "Unknown"
   release: 2011
   timestamp: 04/12/2012
-  rating: liked
-  comment: "People who liked this also liked: The Game."
+  rating: like
+  comment: "People who like this also like: The Game."
 
 - title: "Snow Cake"
   release: 2006
   timestamp: 04/12/2012
-  rating: liked
+  rating: like
   comment: "Снейп хорош, Канада похожа на Финляндию, а сценарий, местами, — на книжки Туве Янссон."
 
 - title: "Skyfall"
   release: 2012
   timestamp: 12/11/2012
-  rating: liked
+  rating: like
   comment: "Думал, обойдётся без традиционных остроумных несмешных шуток, но нет, под конец случилась одна. А вцелом новый 007 прекрасен Бардемом и аккуратными ссылками на предыдущие эпизоды, «диалог с поездом» перевели на русский весьма удачно, а секса за весь фильм почти не было (всего два раза, и оба — гипотетических), но всё это все уже знают, так что этот комментарий просто для архива."
 
 - title: "Wild Things"
   release: 1998
   timestamp: 12/11/2012
-  rating: disliked
+  rating: dislike
   comment: "Типа-детектив в сеттинге сантабарбары, с многократными убиваниями за деньги и слишком большим количеством внезапных сюжетных поворотов."
 
 - title: "Redline"
   release: 2009
   timestamp: 01/10/2012
-  rating: liked
+  rating: like
 
 - title: "Basic Instinct"
   release: 1992
   timestamp: 30/09/2012
-  rating: disliked
+  rating: dislike
 
 - title: "Looper"
   release: 2012
   timestamp: 30/09/2012
-  rating: liked
+  rating: like
   comment: "Не понял только, зачем в будущем пользуются неудобными пижонскими револьверами."
 
 - title: "The Dark Knight Rises"
   release: 2012
   timestamp: 05/08/2012
-  rating: liked
+  rating: like
 
 - title: "Le placard"
   release: 2001
   timestamp: 09/07/2012
-  rating: liked
+  rating: like
 
 - title: "Brave"
   release: 2012
   timestamp: 02/07/2012
-  rating: liked
+  rating: like
 
 - title: "Madagascar 3: Europe's Most Wanted"
   release: 2012
   timestamp: 02/07/2012
-  rating: liked
+  rating: like
 
 - title: "The Best Exotic Marigold Hotel"
   release: 2011
   timestamp: 02/07/2012
-  rating: liked
+  rating: like
 
 - title: "Punk: Attitude"
   release: 2005
   timestamp: 21/06/2012
-  rating: liked
+  rating: like
   comment: "Пожилые панки рассказывают, как оно было, в 70-х."
 
 - title: "Battleship"
   release: 2012
   timestamp: 21/06/2012
-  rating: liked
-  comment: "Для 12-летней аудитории."
+  rating: like
+  comment: "Для 12-летней male аудитории."
 
 - title: "Dirty Rotten Scoundrels"
   release: 1988
   timestamp: 21/06/2012
-  rating: liked
+  rating: like
   comment: "Фильм, который нужно смотреть время от времени."
 
 - title: "Prometheus"
   release: 2012
   timestamp: 11/06/2012
-  rating: liked
+  rating: like
   comment:
-    "Сюжет Прометея напомнил вот этот фрагмент из Футурамы<br>
-    «Hermes Conrad: Today's mission is for all of you to go to the brain slug planet.<br>
-    Dr. Zoidberg: What are we going to do there?<br>
-    Hermes Conrad: Just walk around not wearing a helmet."
+    "Сюжет Прометея напомнил вот этот фрагмент из Футурамы:<blockquote>
+    <i>Hermes Conrad</i>: Today's mission is for all of you to go to the brain slug planet.<br>
+    <i>Dr. Zoidberg</i>: What are we going to do there?<br>
+    <i>Hermes Conrad</i>: Just walk around not wearing a helmet.</blockquote>
+    Когда смотришь этот фильм в кинотеатре, сразу хочется пересмотреть режиссерскую версию, а потом ещё раз, с комментариями."
 
 - title: "Men in Black 3"
   release: 2012
   timestamp: 29/05/2012
-  rating: liked
+  rating: like
 
 - title: "Dead Poets Society"
   release: 1989
   timestamp: 21/05/2012
-  rating: liked
+  rating: like
 
 - title: "The Avengers"
   release: 2012
   timestamp: 08/05/2012
-  rating: liked
+  rating: like
   comment: "Yay! "
 
 - title: "2001: A Space Odyssey"
   release: 1968
   timestamp: 01/04/2012
-  rating: liked
+  rating: like
 
 - title: "Salmon Fishing in the Yemen"
   release: 2011
   timestamp: 31/03/2012
-  rating: liked
+  rating: like
 
 - title: "Valhalla Rising"
   release: 2009
   timestamp: 30/01/2012
-  rating: liked
+  rating: like
 
 - title: "Real Steel"
   release: 2011
   timestamp: 30/01/2012
-  rating: liked
+  rating: like
 
 - title: "The Green Hornet"
   release: 2011
   timestamp: 28/01/2012
-  rating: disliked
+  rating: dislike
   comment: "Простое правило: всё, в чём учавствует Seth Rogen, не смотреть."
 
 - title: "The Girl with the Dragon Tattoo"
   release: 2011
   timestamp: 10/01/2012
-  rating: liked
+  rating: like
   comment: "Получился качественный, динамичный и мрачный триллер. Rooney Mara очень правильно сыграла Лисбет Саландер; Крейга же, как и ожидалось (субъективно) было странно видеть в неряшливо-ботаническом образе Блумквиста, М-микаэля Блумквиста. Из книги повыбрасывали многое (реплика из зала во время эпизода, когда «нашлась» Харриет: «Да всё не та-ак было!»), так что её всё равно интересно будет читать после просмотра фильма, если кто ещё не."
 
 - title: "Hoshi o ou kodomo"
   release: 2011
   timestamp: 04/01/2012
-  rating: liked
+  rating: like
   comment: "На фоне «Пяти самнтиметров» и «The Place Promised in Our Early Days», бросается в галаза совсем слабый сюжет и какая-то общая незавершённость и ненастоящесть. Как будто сабж — это такая ранняя версия видеоряда. Черновой вариант чего-то большего, который предполагается ещё полгода доводить до ума. Смотреть стоит только из-за красивых картинок, за них же и лайк."
 
-- title: "Morozko"
+- title: "Морозко"
   release: 1965
   timestamp: 03/01/2012
-  rating: liked
-  comment: "#ru #ussr #60s"
+  rating: like
+  comment: ""
 
 - title: "Die Hard: With a Vengeance"
   release: 1995
   timestamp: 03/01/2012
-  rating: liked
-  comment: "У Джереми Айронса крутейший голос. Полфильма вспоминал, где же ещё я его слышал. Оказалось, он озвучивал Скара в Короле-Льве, которого в последний раз я смотрел лет -дцать назад. #90s"
+  rating: like
+  comment: "У Джереми Айронса крутейший голос. Полфильма вспоминал, где же ещё я его слышал. Оказалось, он озвучивал Скара в Короле-Льве, которого в последний раз я смотрел лет -дцать назад."
 
 - title: "Die Hard"
   release: 1988
   timestamp: 03/01/2012
-  rating: liked
-  comment: "Откровением стало, что Ганса Грубера играл Северус Снейп #80s"
+  rating: like
+  comment: "Откровением стало, что Ганса Грубера играл Северус Снейп."
 
 - title: "Enchanted"
   release: 2007
   timestamp: 03/01/2012
-  rating: liked
-  comment: "#disney #00s"
+  rating: like
+  comment: ""
 
-- title: "Ironiya sudby, ili S legkim parom!"
+- title: "Ирония судьбы, или с лёгким паром!"
   release: 1975
   timestamp: 03/01/2012
-  rating: liked
-  comment: "#ru #ussr #70s"
+  rating: like
+  comment: ""
 
-- title: "Shirli-Myrli"
+- title: "Ширли-Мырли"
   release: 1995
   timestamp: 03/01/2012
-  rating: liked
-  comment: "#post_ussr #ru #90s"
+  rating: like
+  comment: "Этот фильм напоминает ковёр, который нужно смотреть. Любой фрагмент. Три секунды, и залипаешь."
 
 - title: "Azureus Rising"
   release: 2010
   timestamp: 28/12/2011
-  rating: liked
+  rating: like
 
 - title: "Vanilla Sky"
   release: 2001
   timestamp: 26/12/2011
-  rating: liked
+  rating: like
 
 - title: "Sleeping Beauty"
   release: 2011
   timestamp: 26/12/2011
-  rating: liked
+  rating: like
 
 - title: "The Godfather: Part III"
   release: 1990
   timestamp: 18/12/2011
-  rating: disliked
+  rating: dislike
   comment: "456 эпизод Санта барбары: Из поддонов в доны."
 
 - title: "The Godfather: Part II"
   release: 1974
   timestamp: 13/12/2011
-  rating: liked
+  rating: like
 
 - title: "The Godfather"
   release: 1972
   timestamp: 13/12/2011
-  rating: liked
+  rating: like
 
 - title: "Star Wars Tech"
   release: 2007
   timestamp: 05/12/2011
-  rating: liked
+  rating: like
 
 - title: "I, Robot"
   release: 2004
   timestamp: 05/12/2011
-  rating: liked
+  rating: like
 
 - title: "Limitless"
   release: 2011
   timestamp: 20/11/2011
-  rating: liked
+  rating: like
   comment: "Редкий случай наркоманского фильма с условно-хорошим концом и без излишней морализации. Интересная операторская работа, хорошая музыка. Вероятно, после прочтения книги сюжет был бы более понятен, т.к. экранизация оставляет впечатление того, что некоторые связующие эпизоды просто пропустили."
 
 - title: "Chloe"
   release: 2009
   timestamp: 20/11/2011
-  rating: liked
+  rating: like
   comment: "Фильм понравился прекрасным видеорядом и актёрами. Сюжет показался странноватым (неглупые, вроде бы, преуспевающие люди активно страдают фигнёй)."
 
 - title: "An Education"
   release: 2009
   timestamp: 13/11/2011
-  rating: liked
+  rating: like
 
 - title: "127 Hours"
   release: 2010
   timestamp: 13/11/2011
-  rating: disliked
+  rating: dislike
 
 - title: "Legally Blonde"
   release: 2001
   timestamp: 13/11/2011
-  rating: liked
+  rating: like
 
 - title: "Bauhaus: The Face of the 20th Century"
   release: 1994
   timestamp: 13/11/2011
-  rating: liked
+  rating: like
 
 - title: "The Genius of Design"
   release: 2010
   timestamp: 07/11/2011
-  rating: liked
+  rating: like
   comment: "Посмотрел. Теперь хочется придумать конструкцию стула."
 
 - title: "In Time"
   release: 2011
   timestamp: 06/11/2011
-  rating: liked
+  rating: like
 
 - title: "I Don't Know How She Does It"
   release: 2011
   timestamp: 30/10/2011
-  rating: liked
+  rating: like
   comment: "Типичная девочковая мелодрама про типичные девочковые приоритеты и ценности."
 
 - title: "The Ghost Writer"
   release: 2010
   timestamp: 30/10/2011
-  rating: liked
+  rating: like
   comment: "Правильный, красиво снятый триллер с неоднозначной развязкой."
 
 - title: "Captain America: The First Avenger"
   release: 2011
   timestamp: 30/10/2011
-  rating: liked
+  rating: like
   comment: "Таглайн «The First Avenger» как бы говорит нам: такого кино Будет Ещё! И это не может не радовать. // Посмотрел: это тот случай, когда ожидания совпали с действительностью. Капитан хорош."
 
 - title: "Thor"
   release: 2011
   timestamp: 17/10/2011
-  rating: liked
+  rating: like
   comment: "Meh."
 
 - title: "Green Lantern"
   release: 2011
   timestamp: 17/10/2011
-  rating: liked
+  rating: like
   comment: "Meh."
 
 - title: "X-Men: First Class"
   release: 2011
   timestamp: 13/10/2011
-  rating: liked
+  rating: like
   comment: "В фильме есть отличный 10-секундный эпизод с Росомахой."
 
 - title: "Rio"
   release: 2011
   timestamp: 12/10/2011
-  rating: liked
+  rating: like
 
 - title: "Source Code"
   release: 2011
   timestamp: 12/10/2011
-  rating: liked
+  rating: like
 
 - title: "Coco avant Chanel"
   release: 2009
   timestamp: 12/10/2011
-  rating: liked
+  rating: like
 
 - title: "Fight Club"
   release: 1999
   timestamp: 08/10/2011
-  rating: liked
+  rating: like
 
 - title: "The Eagle"
   release: 2011
   timestamp: 22/09/2011
-  rating: liked
+  rating: like
   comment: "Суровым реализмом фильм очень напомнил 13-го воина. Финальный эпизод какой-то нелепый, но один раз «Орла» посмотреть вполне стоит."
 
 - title: "Tangled"
   release: 2010
   timestamp: 29/08/2011
-  rating: liked
+  rating: like
   comment: "Показательно-диснеевский мультфильм с психоаналитичным сюжетом, нацеленный на девочковую аудиторию. Давно не смотрел ничего подобного, поэтому, когда они там начинают петь, это шок каждый раз."
 
 - title: "3 Idiots"
   release: 2009
   timestamp: 29/08/2011
-  rating: liked
+  rating: like
   comment: "Индийская попытка сделать тупую-американскую-комедию выглядит, конечно, странно, но в целом фильм оставил хорошее впечатление (возможно потому, что попытка не получилась). Очень идилически показана Индия. Противоположность тому, что было в Slumdog Millionaire, например. Посмотреть можно. Желательно без русского перевода, т.к. он нелепый"
 
 - title: "Game of Thrones"
   release: 2011
   timestamp: 21/08/2011
-  rating: liked
+  rating: like
 
 - title: "Harry Potter and the Deathly Hallows: Part 2"
   release: 2011
   timestamp: 20/08/2011
-  rating: liked
+  rating: like
 
 - title: "Cowboys & Aliens"
   release: 2011
   timestamp: 17/08/2011
-  rating: liked
+  rating: like
 
 - title: "The Adjustment Bureau"
   release: 2011
   timestamp: 03/08/2011
-  rating: liked
+  rating: like
   comment: "Всегда считал, что носить шляпу круто, и не каждому дано. Оказалось, всё правильно. «Пока на вас шляпа, все двери открыты». Хороший фильм про шляпы."
 
 - title: "Transformers: Dark of the Moon"
   release: 2011
   timestamp: 03/07/2011
-  rating: liked
+  rating: like
   comment: "Зрелищный, но затянутый. Где-то на час."
 
 - title: "Kari-gurashi no Arietti"
   release: 2010
   timestamp: 26/06/2011
-  rating: liked
+  rating: like
 
 - title: "Kung Fu Panda 2"
   release: 2011
   timestamp: 13/06/2011
-  rating: liked
+  rating: like
   comment: "Больше, чем я ожидал."
 
 - title: "Pirates of the Caribbean: On Stranger Tides"
   release: 2011
   timestamp: 29/05/2011
-  rating: liked
+  rating: like
   comment: "Понравились русалки и Кит Ричардс (кажется, без грима)."
 
 - title: "Generation P"
   release: 2011
   timestamp: 17/04/2011
-  rating: liked
+  rating: like
   comment: "Похоже, больше всех других мне запомнился эпизод с беготнёй по лесу, уворачиванием от берёз и распугиванием грибников. Из него получился бы прекрасный тизер для фильма. Смотреть стоит после прочтения исходного текста."
 
 - title: "TRON: Legacy"
   release: 2010
   timestamp: 15/04/2011
-  rating: liked
+  rating: like
 
 - title: "Sucker Punch"
   release: 2011
   timestamp: 10/04/2011
-  rating: liked
+  rating: like
   comment: "Роботизированные фашисты-зомби с паровым приводом — это, пожалуй, эталонный образец мяса для мясного кино. Почему главный засранец был похож на Меркьюри, не понял."
 
 - title: "Rango"
   release: 2011
   timestamp: 02/04/2011
-  rating: liked
+  rating: like
   comment: "Трёхсекундный эпизод про мужиков, едущих через Мохаве в кабриолете («Во, ещё одна!») → Страх и ненависть в Лас-Вегасе; погоня в ущелье → Звёздные войны, эпизод 5 + Mad Max 2 (опрокинутая цистерна с песком); сон в канализационной трубе и, похоже, диалог с Клинтом Иствудом в пустыне → Пираты карибского моря 3; титры → Джеймс Бонд; музыка в титрах → Криминальное чтиво."
 
 - title: "Quantum of Solace"
   release: 2008
   timestamp: 14/03/2011
-  rating: liked
+  rating: like
 
 - title: "The King's Speech"
   release: 2010
   timestamp: 08/03/2011
-  rating: liked
+  rating: like
   comment: "Олдскульных микрофонов кино. // Отдельно стоит упомянуть, что сцены с участием Хелены Бонем Картер не вызвали в этот раз обычного беспокойства о безопасности главного героя (и это ни в коем случае не упрёк ни в чей адрес)."
 
 - title: "Dr. No"
   release: 1962
   timestamp: 22/02/2011
-  rating: liked
+  rating: like
   comment: "Смотрел во второй раз. Если честно, ради антуража 60-х."
 
 - title: "True Grit"
   release: 2010
   timestamp: 22/02/2011
-  rating: liked
+  rating: like
 
 - title: "Waiting..."
   release: 2005
   timestamp: 08/02/2011
-  rating: liked
+  rating: like
   comment: "Забавно. Можно посмотреть один раз, во вторник вечером."
 
 - title: "The Mechanic"
   release: 2011
   timestamp: 05/02/2011
-  rating: liked
+  rating: like
 
 - title: "The Mechanic"
   release: 1972
   timestamp: 01/02/2011
-  rating: liked
+  rating: awesome
   comment: "Напомнил The Limits of Control."
 
 - title: "Kick-Ass"
   release: 2010
   timestamp: 30/01/2011
-  rating: liked
+  rating: like
   comment: "Мясной супергеройский треш с хорошим саундтреком."
 
 - title: "Mr. Nobody"
   release: 2009
   timestamp: 23/01/2011
-  rating: liked
+  rating: like
   comment: "По всей видимости, понадобится смотреть этот фильм ещё пару раз. Через какое-то время."
 
 - title: "The Social Network"
   release: 2010
   timestamp: 23/01/2011
-  rating: liked
+  rating: like
   comment: "Изнутри Гарвард похож на Хогвартс."
 
 - title: "Scott Pilgrim vs. the World"
@@ -710,551 +734,552 @@
 - title: "Harry Potter and the Deathly Hallows: Part 1"
   release: 2010
   timestamp: 22/11/2010
-  rating: liked
+  rating: like
   comment: "+1 к тому, что кино не для детей."
 
 - title: "5 Centimeters Per Second"
   release: 2007
   timestamp: 21/11/2010
-  rating: liked
+  rating: awesome
 
 - title: "The Chronicles of Narnia: Prince Caspian"
   release: 2008
   timestamp: 19/11/2010
-  rating: disliked
+  rating: dislike
+  comment: "Скучно."
 
 - title: "Toy Story 3"
   release: 2010
   timestamp: 24/10/2010
-  rating: liked
+  rating: like
   comment: "Жёсткое кино. Смотрится как первый сезон Prison Break примерно."
 
 - title: "Red"
   release: 2010
   timestamp: 19/10/2010
-  rating: liked
+  rating: like
   comment: "Отличный фильм. Смотреть без перевода, т. к. в русском дубляже поломали сложные реплики в некоторых интересных местах («Old man my ass!»)."
 
 - title: "Exit Through the Gift Shop"
   release: 2010
   timestamp: 26/09/2010
-  rating: liked
+  rating: like
   comment: "«Sorry about your wall. - Borf»"
 
 - title: "Oceans"
   release: 2009
   timestamp: 13/09/2010
-  rating: liked
-  comment: "(Никогда не платите за что бы то ни было, сделанное из акульих плавников"
+  rating: like
+  comment: "Никогда не платите за что бы то ни было, сделанное из акульих плавников."
 
 - title: "Machete"
   release: 2010
   timestamp: 05/09/2010
-  rating: liked
+  rating: like
 
 - title: "The Expendables"
   release: 2010
   timestamp: 21/08/2010
-  rating: liked
+  rating: like
   comment: "Те, кто рассуждает о недостатках сюжета в Expendables — зануды и ничего не понимают. Это фильм про то, как собрались хорошие парни и поубивали всех плохих. В качестве бонуса там есть эпизод, в котором одновременно присутствуют Сталлоне, Уиллис и Шварценеггер. Какой еще сюжет? Зачем? :)"
 
 - title: "Whatever Works"
   release: 2009
   timestamp: 01/08/2010
-  rating: liked
+  rating: like
 
 - title: "Inception"
   release: 2010
   timestamp: 01/08/2010
-  rating: liked
+  rating: like
 
 - title: "The Life Aquatic with Steve Zissou"
   release: 2004
   timestamp: 23/07/2010
-  rating: liked
+  rating: like
 
 - title: "Despicable Me"
   release: 2010
   timestamp: 18/07/2010
-  rating: liked
+  rating: like
 
 - title: "Mad Max Beyond Thunderdome"
   release: 1985
   timestamp: 08/07/2010
-  rating: liked
+  rating: like
 
 - title: "Where the Wild Things Are"
   release: 2009
   timestamp: 15/06/2010
-  rating: liked
+  rating: like
   comment: "Фильм излишне психотерапевтичный, но атмосферо-приятной."
 
 - title: "No Distance Left to Run"
   release: 2010
   timestamp: 14/06/2010
-  rating: liked
+  rating: like
   comment: "Смотреть обязательно на английском. Там восхитительно-английский английский. А вообще это документальный фильм про Blur, если что."
 
 - title: "Up in the Air"
   release: 2009
   timestamp: 14/06/2010
-  rating: liked
-  comment: "Фильм нудноват и затянут, но местами красиво снят и финал без (ожидавшегося) банального возвращения главного героя на путь истинный. Трейлер точно стоит посмотреть."
+  rating: like
+  comment: "Фильм нудноват и затянут, но местами красиво снят. Финал без (ожидавшегося) банального возвращения главного героя на путь истинный. Трейлер точно стоит посмотреть."
 
 - title: "Inconscientes"
   release: 2004
   timestamp: 13/06/2010
-  rating: liked
+  rating: like
 
 - title: "The Naked Gun: From the Files of Police Squad!"
   release: 1988
   timestamp: 13/06/2010
-  rating: liked
+  rating: like
 
 - title: "Prince of Persia: The Sands of Time"
   release: 2010
   timestamp: 13/06/2010
-  rating: liked
+  rating: like
   comment: "В студии Диснея сценарии изготавливают роботы, в строгом соответствии со спецификацией. Попкорновое кино на один раз."
 
 - title: "Southland Tales"
   release: 2006
   timestamp: 13/05/2010
-  rating: disliked
+  rating: dislike
 
 - title: "Iron Man 2"
   release: 2010
   timestamp: 03/05/2010
-  rating: liked
+  rating: like
 
 - title: "The Lovely Bones"
   release: 2009
   timestamp: 02/05/2010
-  rating: liked
+  rating: like
 
 - title: "Cashback"
   release: 2004
   timestamp: 01/05/2010
-  rating: liked
+  rating: like
 
 - title: "Ninja Assassin"
   release: 2009
   timestamp: 14/03/2010
-  rating: liked
+  rating: like
   comment: "В сюжете очень не хватало Полчищ Зомби, а так — ничего."
 
 - title: "Ben X"
   release: 2007
   timestamp: 14/03/2010
-  rating: liked
+  rating: like
 
 - title: "Alice in Wonderland"
   release: 2010
   timestamp: 08/03/2010
-  rating: liked
+  rating: like
 
 - title: "Flashdance"
   release: 1983
   timestamp: 06/03/2010
-  rating: liked
+  rating: like
 
 - title: "The Girlfriend Experience"
   release: 2009
   timestamp: 01/03/2010
-  rating: liked
+  rating: awesome
   comment: "Фильм напоминает The Limits of Control Джармуша. Здесь тоже не происходит почти ничего кроме разговоров и совершенно улетной операторской работы. Содерберг очень крут."
 
 - title: "Avatar"
   release: 2009
   timestamp: 06/02/2010
-  rating: liked
+  rating: like
   comment: "Сюжет не имеет значения. Значение имеют уши и хвосты. Уши и хвосты!"
 
 - title: "Breakin'"
   release: 1984
   timestamp: 06/02/2010
-  rating: liked
+  rating: like
 
 - title: "The Imaginarium of Doctor Parnassus"
   release: 2009
   timestamp: 31/01/2010
-  rating: liked
+  rating: like
   comment: "7/10 Лили Коул клёви, Уэйтс в своей роли очень колоритен, сюжет затянули."
 
 - title: "The Limits of Control"
   release: 2009
   timestamp: 25/01/2010
-  rating: liked
+  rating: awesome
   comment: "Прекрасный эмбиентный фильм. Ответы на предсказуемые вопросы «почему две чашки эспрессо?» и «почему вертолет?» совершенно излишни, на мой взгляд."
 
 - title: "Zombieland"
   release: 2009
   timestamp: 19/01/2010
-  rating: liked
+  rating: like
 
 - title: "Smokin' Aces: Blowback"
   release: 2009
   timestamp: 18/01/2010
-  rating: disliked
+  rating: dislike
 
 - title: "Up"
   release: 2009
   timestamp: 16/01/2010
-  rating: liked
+  rating: like
 
 - title: "Mary and Max"
   release: 2009
   timestamp: 11/01/2010
-  rating: liked
+  rating: like
   comment: "Хорошая история. Запомнилось: «Нельзя иметь вес больший, чем твой холодильник, и есть вещи больше, чем твоя голова»."
 
 - title: "Star Wars"
   release: 1977
   timestamp: 06/01/2010
-  rating: liked
-  comment: "#70s"
+  rating: like
+  comment: ""
 
 - title: "Sky Captain and the World of Tomorrow"
   release: 2004
   timestamp: 06/01/2010
-  rating: liked
+  rating: like
 
 - title: "City of Ember"
   release: 2008
   timestamp: 06/01/2010
-  rating: liked
+  rating: like
 
 - title: "Sherlock Holmes"
   release: 2009
   timestamp: 06/01/2010
-  rating: liked
+  rating: like
 
 - title: "Objectified"
   release: 2009
   timestamp: 06/01/2010
-  rating: liked
-  comment: "#industrialdesign #inspiration #helvetica"
+  rating: like
+  comment: ""
 
 - title: "A Christmas Carol"
   release: 2009
   timestamp: 14/12/2009
-  rating: liked
+  rating: like
 
 - title: "New York, I Love You"
   release: 2008
   timestamp: 15/11/2009
-  rating: liked
+  rating: like
 
 - title: "First Squad: The Moment of Truth"
   release: 2009
   timestamp: 20/10/2009
-  rating: liked
+  rating: like
 
 - title: "Moon"
   release: 2009
   timestamp: 12/10/2009
-  rating: liked
+  rating: like
 
-- title: "Gake no ue no Ponyo"
+- title: "Ponyo (Gake no ue no Ponyo)"
   release: 2008
   timestamp: 20/09/2009
-  rating: liked
+  rating: like
 
 - title: "9"
   release: 2009
   timestamp: 13/09/2009
-  rating: liked
+  rating: like
 
 - title: "Burn After Reading"
   release: 2008
   timestamp: 11/09/2009
-  rating: disliked
+  rating: dislike
   comment: "Хорошие артисты, но по сценарию в течении всего фильма полнейшая пердуха происходит. Разочарова :("
 
 - title: "Easy Virtue"
   release: 2008
   timestamp: 10/09/2009
-  rating: liked
+  rating: like
 
 - title: "Inglourious Basterds"
   release: 2009
   timestamp: 08/09/2009
-  rating: liked
+  rating: like
 
 - title: "Analyze That"
   release: 2002
   timestamp: 23/08/2009
-  rating: liked
+  rating: like
 
 - title: "Into the Wild"
   release: 2007
   timestamp: 19/08/2009
-  rating: liked
+  rating: like
 
 - title: "District 9"
   release: 2009
   timestamp: 16/08/2009
-  rating: liked
+  rating: like
 
 - title: "G.I. Joe: The Rise of Cobra"
   release: 2009
   timestamp: 09/08/2009
-  rating: disliked
+  rating: dislike
   comment: "Занятно смотреть, как жанр трансформируется в соответствии с меняющимися потребностями. В сюжете до четырех-пяти параллельных потоков, длина средней фразы — около трех-четырех слов, очень высокая плотность событий, которая не мешает легко воспринимать все, что происходит. Весь фильм как трейлер. Качественный продукт. Жевательное кино для мальчиков."
 
 - title: "Public Enemies"
   release: 2009
   timestamp: 04/08/2009
-  rating: liked
+  rating: like
   comment: "Довольно затянуто. И странная операторская работа."
 
 - title: "Coffee and Cigarettes"
   release: 2003
   timestamp: 27/07/2009
-  rating: liked
+  rating: like
 
 - title: "Harry Potter and the Half-Blood Prince"
   release: 2009
   timestamp: 27/07/2009
-  rating: liked
+  rating: like
 
 - title: "Sex and Lucia"
   release: 2001
   timestamp: 23/07/2009
-  rating: liked
+  rating: like
   comment: "[PG16] У меня была гипотеза: «Артхауз — это такой специальный жанр кино, важным атрибутом и показателем высокой художественности которого является мужской половой хуй, появляющийся в видеоряде минимум один раз». Пока что эта гипотеза подтверждается."
 
 - title: "Transformers: Revenge of the Fallen"
   release: 2009
   timestamp: 05/07/2009
-  rating: liked
+  rating: like
   comment: "Они совершенно напрасно разбавили кино про роботов второстепенными сюжетными линиями вокруг человеков."
 
 - title: "Contact"
   release: 1997
   timestamp: 13/06/2009
-  rating: liked
+  rating: like
 
 - title: "Terminator Salvation"
   release: 2009
   timestamp: 13/06/2009
-  rating: liked
+  rating: like
 
 - title: "Blade Runner"
   release: 1982
   timestamp: 09/06/2009
-  rating: liked
+  rating: like
 
 - title: "Eyes to the Skies"
   release: 2004
   timestamp: 03/06/2009
-  rating: liked
+  rating: like
 
 - title: "Dellamorte Dellamore"
   release: 1994
   timestamp: 23/05/2009
-  rating: liked
+  rating: like
 
 - title: "Futurama: Into the Wild Green Yonder"
   release: 2009
   timestamp: 23/05/2009
-  rating: liked
+  rating: like
   comment: "Полнометражная Футурама, как обычно, выглядит бледно на фоне сериала, плюс совершенно никакой русский перевод, в котором убита половина диалогов. Смотреть только на английском."
 
 - title: "Be Kind Rewind"
   release: 2008
   timestamp: 23/05/2009
-  rating: liked
+  rating: like
 
 - title: "Star Trek"
   release: 2009
   timestamp: 10/05/2009
-  rating: liked
+  rating: like
 
 - title: "Sanjuro"
   release: 1962
   timestamp: 07/05/2009
-  rating: liked
+  rating: like
 
 - title: "The Boat That Rocked"
   release: 2009
   timestamp: 06/05/2009
-  rating: liked
+  rating: like
   comment: Два с половиной часа удовольствия
 
 - title: "Vicky Cristina Barcelona"
   release: 2008
   timestamp: 04/05/2009
-  rating: liked
+  rating: like
   comment: "Красиво снятый фильм с классным названием. Сюжет — бе."
 
 - title: "The Virgin Suicides"
   release: 1999
   timestamp: 04/05/2009
-  rating: liked
+  rating: like
   comment: "Этот саундтрек. А!"
 
 - title: "Reservoir Dogs"
   release: 1992
   timestamp: 04/05/2009
-  rating: disliked
+  rating: dislike
   comment: "Тарантино — такой Тарантино."
 
 - title: "Stardust"
   release: 2007
   timestamp: 04/05/2009
-  rating: liked
+  rating: like
   comment: "Де Ниро — молодец."
 
 - title: "Crank: High Voltage"
   release: 2009
   timestamp: 04/05/2009
-  rating: liked
+  rating: like
   comment: "Эти люди взяли все положенные ингридиенты для приготовления блокбастера и выбросили скучные базары, претензии на глубину и прочий ненужный"
 
 - title: "Shaun of the Dead"
   release: 2004
   timestamp: 04/05/2009
-  rating: disliked
+  rating: dislike
   comment: "Когда фильм вызывает ощущение наличия в себе message, и при этом никакого message в нем нет, это раздражает."
 
 - title: "X-Men Origins: Wolverine"
   release: 2009
   timestamp: 04/05/2009
-  rating: liked
+  rating: like
   comment: "Не продолжает череду восторгов Iron Man → The Dark Knight → Watchmen. Добротно сделанный, но какй-то совершенно вторичный и предсказуемый"
 
 - title: "Coraline"
   release: 2009
   timestamp: 02/05/2009
-  rating: liked
+  rating: like
 
 - title: "MirrorMask"
   release: 2005
   timestamp: 26/04/2009
-  rating: liked
+  rating: like
 
 - title: "Pi"
   release: 1998
   timestamp: 19/04/2009
-  rating: disliked
+  rating: dislike
 
 - title: "Moonstruck"
   release: 1987
   timestamp: 11/04/2009
-  rating: liked
+  rating: like
   comment: "Кроме Шер образца 80-х смотреть, в общем, не на что. Но это тоже вполне себе повод."
 
 - title: "The Full Monty"
   release: 1997
   timestamp: 08/04/2009
-  rating: liked
+  rating: like
 
 - title: "The Wrestler"
   release: 2008
   timestamp: 16/03/2009
-  rating: liked
+  rating: like
 
 - title: "Lolita"
   release: 1962
   timestamp: 11/03/2009
-  rating: liked
+  rating: like
 
 - title: "Watchmen"
   release: 2009
   timestamp: 07/03/2009
-  rating: liked
+  rating: like
 
 - title: "Analyze This"
   release: 1999
   timestamp: 01/03/2009
-  rating: liked
+  rating: like
 
 - title: "Office Space"
   release: 1999
   timestamp: 01/03/2009
-  rating: liked
+  rating: like
 
 - title: "Little Miss Sunshine"
   release: 2006
   timestamp: 28/02/2009
-  rating: liked
+  rating: like
 
 - title: "Slumdog Millionaire"
   release: 2008
   timestamp: 24/02/2009
-  rating: liked
+  rating: like
 
 - title: "I'm Not There."
   release: 2007
   timestamp: 21/02/2009
-  rating: liked
+  rating: like
 
 - title: "Ziggy Stardust and the Spiders from Mars"
   release: 1973
   timestamp: 15/02/2009
-  rating: liked
+  rating: like
 
 - title: "Velvet Goldmine"
   release: 1998
   timestamp: 15/02/2009
-  rating: liked
+  rating: like
 
 - title: "The Science of Sleep"
   release: 2006
   timestamp: 08/02/2009
-  rating: liked
+  rating: like
 
 - title: "Daria in 'Is It College Yet?'"
   release: 2002
   timestamp: 01/02/2009
-  rating: liked
+  rating: like
 
 - title: "Donnie Darko"
   release: 2001
   timestamp: 01/02/2009
-  rating: disliked
+  rating: dislike
 
 - title: "Daria in 'Is It Fall Yet?'"
   release: 2000
   timestamp: 17/01/2009
-  rating: liked
+  rating: like
 
 - title: "RocknRolla"
   release: 2008
   timestamp: 16/01/2009
-  rating: liked
+  rating: like
   comment: "Комментарии в фильмфиде. Mmmm..."
 
 - title: "In Bruges"
   release: 2008
   timestamp: 14/01/2009
-  rating: disliked
+  rating: dislike
 
 - title: "Obitaemyy ostrov"
   release: 2008
   timestamp: 13/01/2009
-  rating: disliked
+  rating: dislike
 
 - title: "Stilyagi"
   release: 2008
   timestamp: 13/01/2009
-  rating: liked
+  rating: like
 
 - title: "Superman/Doomsday"
   release: 2007
   timestamp: 08/01/2009
-  rating: liked
+  rating: like
 
 - title: "The Curious Case of Benjamin Button"
   release: 2008
   timestamp: 07/01/2009
-  rating: liked
+  rating: like
 
 - title: "The Dark Knight"
   release: 2008
   timestamp: 24/11/2008
-  rating: liked
+  rating: like
 
 - title: "Visual Acoustics"
   timestamp: 14/01/2014
@@ -1299,11 +1324,6 @@
   release: 2013
   rating: want
   timestamp: 06/01/2014
-
-- title: "Her"
-  release: 2013
-  rating: want
-  timestamp: 02/01/2014
 
 - title: "Dallas Buyers Club"
   release: 2013

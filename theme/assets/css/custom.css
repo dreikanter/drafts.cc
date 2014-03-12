@@ -60,8 +60,21 @@ body {
   margin-bottom: 10px;
 }
 
-h2.list-year {
+.light {
   color: #ccc;
+}
+
+.data-rating-awesome {
+  color: #ebc500;
+}
+
+.data-rating-dislike {
+  color: #ccc;
+}
+
+.rating-icon {
+  padding-left: .4em;
+  padding-right: .4em;
 }
 
 pre {
