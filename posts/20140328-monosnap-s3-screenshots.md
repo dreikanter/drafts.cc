@@ -35,7 +35,7 @@ tags: aws, tools
 
 Получиться должно примерно так:
 
-![](http://shots.drafts.cc/20140404165812.png)
+![](http://media.drafts.cc/20140404165812.png)
 
 **Создаём пользователя,** под которым Monosnap будет выкладывать скриншоты:  Security Credentials → [Users](https://console.aws.amazon.com/iam/home?#users) → Create New User. Не забываем скопировать или скачать Access Key ID и Secret Access Key (если этого не сделать, придётся создавать пользователя заново).
 
@@ -85,6 +85,6 @@ tags: aws, tools
 
 **Настраиваем Monosnap.** Settings... → Account → Amazon S3:
 
-![](http://shots.drafts.cc/20140404164018.png)
+![](http://media.drafts.cc/20140404164018.png)
 
 В дополнение можно задать более компактный и нормально сортируемый формат имён файлов, например, `%Y%m%d%H%M%S`, и снять галку Short links. Если уж хостить скриншоты «у себя», то и от линки прямые давать более логично.
