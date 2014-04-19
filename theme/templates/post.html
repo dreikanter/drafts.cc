@@ -30,7 +30,7 @@
 {% endblock %}
 
 {% block comments %}
-	{%- if commons.disqus_short_name -%}
-		{{- macros.disqus_comments(commons.disqus_short_name) -}}
+	{%- if commons.id_disqus -%}
+		{{- macros.disqus_comments(commons.id_disqus, page.url) -}}
 	{%- endif -%}
 {% endblock %}
