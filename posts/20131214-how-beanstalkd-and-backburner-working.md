@@ -78,10 +78,10 @@ Backburner.work
 
 В левой панели консоли непрерывно работает исполнитель задач  `worker.rb`, в правой — многократно запускается скрипт `prod.rb`, добавляющий в очередь новые задачи со случайным ID.
 
-![](http://media.drafts.cc/beanstalkd-backburner-example-1.png)
+![](http://media.drafts.cc/20131215002900.png)
 
 Посмотрим, что будет, если прерываем работу воркера по `Ctrl-C`, и запустить скрипт снова.
 
-![](http://media.drafts.cc/beanstalkd-backburner-example-2.png)
+![](http://media.drafts.cc/20131215002900.png)
 
 Обработка очереди задач продолжается.
