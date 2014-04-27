@@ -8,7 +8,7 @@ tags: coursera
 
 - Страница [курса на Курсере](https://class.coursera.org/behavioralecon-002).
 - Курсеровская [вики](https://share.coursera.org/wiki/index.php/Behavioralecon:Main) с кратким содержанием лекций.
-- [Основные определения](http://quizlet.com/23020804/behavioral-economics-glossary-all-may-2013-flash-cards/) в виде карточек для изучения. Их там 107 штук.
+- [Основные определения](http://quizlet.com/23020804/behavioral-economics-glossary-all-may-2013-flash-cards/) в виде 107 карточек для изучения. И [копия](http://localhost:8001/behavioral-economics-glossary.html) «у себя», в виде просто-текста.
 - Конспект [Александра Назаровского](http://nazarovsky.ru/misc/ariely/).
 - Ещё один конспект в виде [мега-списка](https://sites.google.com/site/outlinesofbooks/a-beginner-s-guide-to-irrational-behavior-by-dan-ariely).
 - Эта страница [на гитхабе](https://github.com/dreikanter/drafts.cc/blob/master/posts/20140427-behavioral-economics.md).
