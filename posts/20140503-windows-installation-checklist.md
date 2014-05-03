@@ -1,6 +1,10 @@
-title: Windows Software
+title: Windows Installation Checklist
+created: 2014/05/03 17:56:49
+tags: tech stuff, windows
 
-# Windows Software Checklist
+В чеквисте образовался список того, что мне на текущий момент нужно на рабочей машине под Windows. Для OS X такого списка пока нет, но кажется, что он должен быть короче где-то на треть.
+
+Постоянный адрес списка: [http://drafts.cc/windows-software.html](http://drafts.cc/windows-software.html) (если будут апдейты, то там).
 
 ### General purpose
 
