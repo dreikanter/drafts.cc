@@ -9,10 +9,6 @@ tags: tech stuff, windows
 ### General purpose
 
 - Firefox
-    - 1Password extension
-    - Ghostery
-    - Flashblock
-    - Hola
 - 1Password
 - Skype
 - Telegram
