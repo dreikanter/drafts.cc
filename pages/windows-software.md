@@ -4,11 +4,7 @@ title: Windows Software
 
 ### General purpose
 
-- Firefox
-    - 1Password extension
-    - Ghostery
-    - Flashblock
-    - Hola
+- Firefox ([extensions](/browser-extensions.html))
 - 1Password
 - Skype
 - Telegram
