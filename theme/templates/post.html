@@ -31,6 +31,6 @@
 
 {% block comments %}
 	{%- if commons.disqus_id -%}
-		{{- disqus_comments(commons.disqus_id) -}}
+		{{- disqus_comments(commons.disqus_id, page.url) -}}
 	{%- endif -%}
 {% endblock %}
