@@ -72,6 +72,10 @@ blockquote p {
   color: #ccc;
 }
 
+.small {
+  font-size: 14px;
+}
+
 .data-rating-awesome {
   color: #ebc500;
 }
