@@ -51,7 +51,7 @@ min_js: false
 min_css: false
 
 # Shell command for LESS compillation
-less_cmd: lessc --yui-compress {source} > {dest}
+less_cmd: lessc --compress {source} > {dest}
 
 # Shell command for JavaScript minification
 min_js_cmd: yuicompressor --type js --nomunge -o {dest} {source}
