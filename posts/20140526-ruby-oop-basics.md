@@ -10,31 +10,33 @@ tags: конспекты, ruby
 
 Работает так:
 
-	class Person
-	  def initialize first_name, last_name
-	    @first_name = first_name
-	    @last_name = last_name
-	  end
+~~~ ruby
+class Person
+  def initialize first_name, last_name
+    @first_name = first_name
+    @last_name = last_name
+  end
 
-	  def say_hello
-	    puts "Hello!"
-	  end
-	end
+  def say_hello
+    puts "Hello!"
+  end
+end
 
-	class Builder < Person
-	  def initialize first_name, last_name, skills
-	    super first_name, last_name
-	    @skills = skills
-	  end
+class Builder < Person
+  def initialize first_name, last_name, skills
+    super first_name, last_name
+    @skills = skills
+  end
 
-	  def say_hello
-	    super
-	    puts "I'm a builder."
-	  end
-	end
+  def say_hello
+    super
+    puts "I'm a builder."
+  end
+end
 
-	b = Builder.new('Bob', 'Williams', ['construct', 'deconstruct'])
-	b.say_hello
+b = Builder.new('Bob', 'Williams', ['construct', 'deconstruct'])
+b.say_hello
+~~~
 
 `super` — вызов метода базового класса из перегружающего его метода.
 
@@ -42,66 +44,70 @@ tags: конспекты, ruby
 
 С помощью `attr_reader` и `attr_writer` можно создавать get и set аксессоры для instance variables. Каждый аксессор — это просто метод для доступа к одноимённой переменной.
 
-	class Person
-	  attr_reader :first_name, :last_name
+~~~ ruby
+class Person
+  attr_reader :first_name, :last_name
 
-	  # Эквивалентный код:
+  # Эквивалентный код:
 
-	  # def first_name
-	  #   @first_name
-	  # end
-	  #
-	  # def last_name
-	  #   @last_name
-	  # end
+  # def first_name
+  #   @first_name
+  # end
+  #
+  # def last_name
+  #   @last_name
+  # end
 
-	  attr_writer :first_name
+  attr_writer :first_name
 
-	  # Эквивалентный код:
+  # Эквивалентный код:
 
-	  # def first_name=(value)
-	  #   @first_name = value
-	  # end
+  # def first_name=(value)
+  #   @first_name = value
+  # end
 
-	  def initialize first_name, last_name
-	    @first_name = first_name
-	    @last_name = last_name
-	  end
-	end
+  def initialize first_name, last_name
+    @first_name = first_name
+    @last_name = last_name
+  end
+end
+~~~
 
 По-умолчанию все instance variables в Ruby определяются как private (в терминах C++/C#/Java — protected), а методы — как public. При необходимости методы можно явно определять и как private:
 
-	class Person
-	  def initialize first_name, last_name
-	    @first_name = first_name
-	    @last_name = last_name
-	  end
+~~~ ruby
+class Person
+  def initialize first_name, last_name
+    @first_name = first_name
+    @last_name = last_name
+  end
 
-	  def full_name
-	    "#{first_name} #{last_name}"
-	  end
+  def full_name
+    "#{first_name} #{last_name}"
+  end
 
-	  private
+  private
 
-	  def first_name
-	    @first_name
-	  end
+  def first_name
+    @first_name
+  end
 
-	  def last_name
-	    @last_name
-	  end
-	end
+  def last_name
+    @last_name
+  end
+end
 
-	class AnonymousAlcoholic < Person
-	  def say_hi
-	    p "Hello, my name is #{first_name}."
-	  end
-	end
+class AnonymousAlcoholic < Person
+  def say_hi
+    p "Hello, my name is #{first_name}."
+  end
+end
 
-	john = AnonymousAlcoholic.new "John", "Smith"
-	john.say_hi        # "Hello, my name is John."
-	p john.full_name   # "John Smith"
-	p john.first_name  # NoMethodError
+john = AnonymousAlcoholic.new "John", "Smith"
+john.say_hi        # "Hello, my name is John."
+p john.full_name   # "John Smith"
+p john.first_name  # NoMethodError
+~~~
 
 ### Полиморфизм
 
@@ -109,72 +115,78 @@ tags: конспекты, ruby
 
 Например:
 
-	class AnonymousAlcoholic < Person
-	  def say_hi
-	    p "Hello, my name is #{first_name}."
-	  end
+~~~ ruby
+class AnonymousAlcoholic < Person
+  def say_hi
+    p "Hello, my name is #{first_name}."
+  end
 
-	  def first_name
-	    "Rupert" # Джон хочет сохранить инкогнито
-	  end
-	end
+  def first_name
+    "Rupert" # Джон хочет сохранить инкогнито
+  end
+end
 
-	john = AnonymousAlcoholic.new "John", "Smith"
-	john.say_hi        # "Hello, my name is Rupert."
-	p john.full_name   # "Rupert Smith"
-	p john.first_name  # "Rupert"
+john = AnonymousAlcoholic.new "John", "Smith"
+john.say_hi        # "Hello, my name is Rupert."
+p john.full_name   # "Rupert Smith"
+p john.first_name  # "Rupert"
+~~~
 
 Этот пример заодно иллюстрирует ещё и то, что уровень доступа к методам можно оверрайдить. В данном случае `first_name` переопределён как public.
 
 С помощью исключения `NotImplementedError` можно задавать обязательные для имплементирования методы. В следующем примере `Person` — базовая абстракция:
 
-	class Person
-		# ...
+~~~ ruby
+class Person
+    # ...
 
-		def say_hello
-		  puts "Hello, my name is #{full_name}"
-		end
+    def say_hello
+      puts "Hello, my name is #{full_name}"
+    end
 
-		def full_name
-		  raise NotImplementedError, 'Must be implemented by subtypes.'
-		end
-	end
+    def full_name
+      raise NotImplementedError, 'Must be implemented by subtypes.'
+    end
+end
+~~~
 
 ### Duck typing
 
 Пример, демонстрирующий, что наличие конкретных методов у объекта превалирует над его классовой принадлежностью:
 
-	class Person
-	  def initialize first_name, last_name
-	    @first_name = first_name
-	    @last_name = last_name
-	  end
+~~~ ruby
+class Person
+  def initialize first_name, last_name
+    @first_name = first_name
+    @last_name = last_name
+  end
 
-	  def say_hello
-	    puts "Hello, my name is #{@first_name}"
-	  end
-	end
+  def say_hello
+    puts "Hello, my name is #{@first_name}"
+  end
+end
 
-	class Cat
-	  def initialize hungry=true
-	    @hungry = hungry
-	  end
+class Cat
+  def initialize hungry=true
+    @hungry = hungry
+  end
 
-	  def say_hello
-	    puts @hungry ? "MEOW!" : "Purr-purr-purr"
-	  end
-	end
+  def say_hello
+    puts @hungry ? "MEOW!" : "Purr-purr-purr"
+  end
+end
 
-	class Brick
-	  def say_hello
-	    puts ''
-	  end
-	end
+class Brick
+  def say_hello
+    puts ''
+  end
+end
 
-	objects = [
-	  Person.new("John", "Smith"),
-	  Cat.new(false),
-	  Brick.new
-	]
+objects = [
+  Person.new("John", "Smith"),
+  Cat.new(false),
+  Brick.new
+]
 
-	objects.each { |item| item.say_hello } # Работает!
+objects.each { |item| item.say_hello } # Работает!
+~~~
