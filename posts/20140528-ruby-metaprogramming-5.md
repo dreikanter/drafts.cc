@@ -1,8 +1,8 @@
-title: Ruby Object Model and Metaprogramming: Nine Examples
+title: Ruby Metaprogramming: Nine Examples
 created: 2014/05/28 22:32:21
 tags: ruby, конспекты
 
-Продолжение [конспекта](/2014/05/26/ruby-metaprogramming-1.html) по курсу Дэйва Томаса.
+Продолжение [конспекта](/2014/05/26/ruby-metaprogramming-1.html) по курсу Дэйва Томаса [Ruby Object Model and Metaprogramming](http://pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming).
 
 ---
 
@@ -13,8 +13,8 @@ tags: ruby, конспекты
 - Episode 3: [Dynamic Code](/2014/05/28/ruby-metaprogramming-3.html)
 - Episode 4: [instance_eval and class_eval](/2014/05/28/ruby-metaprogramming-4.html)
 - **Episode 5: Nine Examples**
-- Episode 6: Some Hook Methods
-- Episode 7: More Hook Methods
+- Episode 6: [Some Hook Methods](/2014/06/01/ruby-metaprogramming-6.html)
+- Episode 7: [More Hook Methods](/2014/06/01/ruby-metaprogramming-7.html)
 
 ---
 
@@ -216,7 +216,7 @@ p d.discount(1, 2, 3)   # 6
 
 Конвенциональный underscore в начале строки означает don't mess with this. В Ruby есть приватные методы. Зачем нужна ещё дополнительная конвенция — не ясно.
 
-### Rewriting using module
+### [7] Rewriting using module
 
 Самый хитрый способ: создаём модуль, и в этом модуле определяем метод, который сделает примерно то же, что было выполнено в примере [5]. Определит кэширующий метод вместо того, чьё имя мы зададим, а старый метод будет вызывать по алиасу.
 
@@ -261,7 +261,7 @@ p d.discount(1, 2, 3)   # 6
 
 Для того, чтобы вызывать метод, используя его имя в виде строки, есть метод `send(method_name, *args)`.
 
-### Write using bind
+### [8] Write using bind
 
 В предыдущем примере остаётся некрасивая деталь — алиас для проксирования вызовов оригинальному методу, чьи результаты надо кэшировать. Вместо алиаса можно сохранить метод в виде объекта. Для этого есть метод `Module#instance_method`, возвражающий объект-метод (`
 UnboundMethod`) по заданному имени.
@@ -301,7 +301,7 @@ class Discounter
 end
 ~~~
 
-### Using DSL
+### [9] Using DSL
 
 Определяем метод `Memoize#remember` для определения кэширующегося метода в классе `Discounter`. Вторым аргументом в `define_method` можно передавать блок.
 

@@ -1,8 +1,8 @@
-title: Ruby Object Model and Metaprogramming: instance_eval and class_eval
+title: Ruby Metaprogramming: instance_eval and class_eval
 created: 2014/05/28 22:32:04
 tags: ruby, конспекты
 
-Продолжение [конспекта](/2014/05/26/ruby-metaprogramming-1.html) по курсу Дэйва Томаса.
+Продолжение [конспекта](/2014/05/26/ruby-metaprogramming-1.html) по курсу Дэйва Томаса [Ruby Object Model and Metaprogramming](http://pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming).
 
 ---
 
@@ -13,8 +13,8 @@ tags: ruby, конспекты
 - Episode 3: [Dynamic Code](/2014/05/28/ruby-metaprogramming-3.html)
 - **Episode 4: instance_eval and class_eval**
 - Episode 5: [Nine Examples](/2014/05/28/ruby-metaprogramming-5.html)
-- Episode 6: Some Hook Methods
-- Episode 7: More Hook Methods
+- Episode 6: [Some Hook Methods](/2014/06/01/ruby-metaprogramming-6.html)
+- Episode 7: [More Hook Methods](/2014/06/01/ruby-metaprogramming-7.html)
 
 ---
 
@@ -43,7 +43,7 @@ end
 "cat".instance_eval do
   puts upcase # Выводит CAT
 end
-~~~~
+~~~
 
 А вот так легко и просто можно вынуть из объекта значение instance variable, к которой нет аксессоров:
 
@@ -63,7 +63,7 @@ end
 t = Thing.new
 puts t.instance_eval { @secret }       # 123
 t.instance_eval { do_private_stuff }   # Wooo!
-~~~~
+~~~
 
 С помощью `instance_eval` можно определять методы для объекта:
 
@@ -77,7 +77,7 @@ cat.instance_eval do
 end
 
 cat.say_hello   # Meow!
-~~~~
+~~~
 
 Это singleton method, такой же, как в одном из первых примеров.
 

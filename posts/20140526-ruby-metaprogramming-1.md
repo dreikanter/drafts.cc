@@ -1,4 +1,4 @@
-title: Ruby Object Model and Metaprogramming: Objects and Classes
+title: Ruby Metaprogramming: Objects and Classes
 created: 2014/05/26 22:38:21
 tags: ruby, конспекты
 
@@ -19,8 +19,8 @@ tags: ruby, конспекты
 - Episode 3: [Dynamic Code](/2014/05/28/ruby-metaprogramming-3.html)
 - Episode 4: [instance_eval and class_eval](/2014/05/28/ruby-metaprogramming-4.html)
 - Episode 5: [Nine Examples](/2014/05/28/ruby-metaprogramming-5.html)
-- Episode 6: Some Hook Methods
-- Episode 7: More Hook Methods
+- Episode 6: [Some Hook Methods](/2014/06/01/ruby-metaprogramming-6.html)
+- Episode 7: [More Hook Methods](/2014/06/01/ruby-metaprogramming-7.html)
 
 ---
 
