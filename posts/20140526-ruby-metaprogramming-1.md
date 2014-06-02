@@ -26,7 +26,7 @@ tags: ruby, конспекты
 
 Object = State + Behavior
 
-Базовый класс в Ruby — BasicClass (вплоть до версии 1.8 был Object).
+Базовый класс в Ruby — BasicObject (вплоть до версии 1.8 был Object).
 
 ~~~ ruby
 p "String".class 			# String
