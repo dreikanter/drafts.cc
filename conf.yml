@@ -1,7 +1,7 @@
 # public-static configuration file
 
 # Site title
-title: drafts.cc
+title: alexmusayev.co
 
 # Site sublitle
 subtitle: is a different place
@@ -10,27 +10,27 @@ subtitle: is a different place
 author: Alex Musayev
 
 # Author home page
-author_url: http://alex.musayev.com
+author_url: http://alexmusayev.co
 
 author_twitter: dreikanter
 
-site_twitter: draftscc
+site_twitter: dreikanter
 
 # Website source URL
-source_url: https://github.com/dreikanter/drafts.cc
+source_url: https://github.com/dreikanter/alexmusayev.co
 
 # Root website URL
-root_url: http://drafts.cc/
+root_url: http://alexmusayev.co/
 
 # Post destination path pattern
-post_location: '{year}/{month}/{day}/{name}.html'
+post_location: '{name}.html'
+# post_location: '{year}/{month}/{day}/{name}.html'
 
 # Port number for the local web server
 port: 8001
 
 # Shell command for web content deployment
-deploy_cmd: aws s3 sync {build_path} s3://drafts.cc --acl public-read --delete --region=eu-west-1
-# s3 put drafts.cc {build_path}\* /sub:withdelete /yes /sync /acl:public-read /nogui
+deploy_cmd: aws --profile alexmusayev_co s3 sync {build_path} s3://alexmusayev.co --acl public-read --delete
 
 # A list of default tags to be added to a new post
 default_tags:
@@ -65,8 +65,4 @@ verbose: true
 
 google_analytics_id: UA-32143798-2
 
-# addthis_id: ra-4ff62b047ef6db99
-
 disqus_id: draftscc
-
-# pluso_enabled: true
