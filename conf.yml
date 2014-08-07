@@ -37,16 +37,16 @@ default_tags:
 - misc
 
 # Enable Google search form
-enable_search_form: true
+enable_search_form: false
 
 # Navigation menu items
 menu:
 - href: /about.html
-  title: About
-- href: /archive/
-  title: Archive
-- href: http://alex.musayev.com
-  title: Curriculum vitae
+  title: about
+- href: /archive.html
+  title: archive
+- href: http://alex.musayev.com/alexm-cv-en.pdf
+  title: curriculum vitae
 
 # Enable JavaScript minification
 min_js: false
