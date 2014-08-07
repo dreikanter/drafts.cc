@@ -2,11 +2,7 @@ title: Series
 
 # Queue
 
-- Tha Game of Thrones S03
-- The Big Bang Theory S06
 - The Simpsons S25
-- House of Cards S02
-- Walking Dead S04
 - Black Sails
 - Mind Games
 - Black's Books S01
@@ -16,6 +12,10 @@ title: Series
 
 ## 2014:
 
+- Tha Game of Thrones S03 — 2014/06/17
+- Walking Dead S04 — 2014/06/16
+- The Big Bang Theory S06
+- House of Cards S02
 - South Park S17
 - Adventure Time S05 — ! — 2014/04/22
 - Intelligence S01 — Посмотрел первые три эпизода, дальше не пошло.
